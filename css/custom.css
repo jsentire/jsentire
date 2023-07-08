@@ -5,6 +5,7 @@
 */
 
 body{
+	
 	font-size: 16px;
 	font-family: 'Roboto Condensed', sans-serif;
 }
@@ -21,7 +22,9 @@ h6{
 
 img{
 	max-width: 100%;
+
 }
+
 
 a:hover{
 	text-decoration: none;
@@ -63,6 +66,28 @@ a:focus{
 	color: #aeaeae;
 }
 
+
+
+.bb{
+	margin-top: 20px;
+	float: left;
+	width: 25%;
+	padding: 5px;
+
+}
+
+.brands::after {
+    content: ;
+	dispaly: table;
+	clear: both;    	
+}
+
+.sub{
+	margin-top: 50px;
+	color: #00adef;
+	font-size: 20px;
+	text-transform: uppercase;
+}
 .logo{
 	position: fixed;
 	top: 10px;
